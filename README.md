@@ -1,10 +1,12 @@
 Super Store Sales Performance Analysis Dashboard (Power BI)
 
 
+
 Project Overview:
 
 This project focuses on analyzing Super Store sales data to gain insights into sales performance, profitability,
 customer behavior, product trends, and delivery efficiency using Power BI.
+
 
 Dataset Description:
 
@@ -13,6 +15,7 @@ The dataset contains transactional sales data with the following key fields:
 2. Sales, quantity, and profit metrics
 3. Delivery, payment, and order status information
 4. Calculated fields such as profit margin, delivery days, and sales status
+
 
 
 Objectives:
