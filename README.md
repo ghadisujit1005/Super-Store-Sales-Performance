@@ -1,68 +1,34 @@
-Super Store Sales Performance Analysis Dashboard (Power BI)
+<h1 align="center">Hi 👋, I'm Sujit Ghadi</h1>
+<h3 align="center">A passionate data science professional turning data into insights.</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadisujit1005&label=Profile%20views&color=0e75b6&style=flat" alt="ghadisujit1005" /> </p>
 
-Project Overview:
+- 🔭 Projects I’ve worked on [Super-Store-Sales-Performance](https://github.com/ghadisujit1005/Super-Store-Sales-Performance)
 
-This project focuses on analyzing Super Store sales data to gain insights into sales performance, profitability,
-customer behavior, product trends, and delivery efficiency using Power BI.
+- 🌱 I’m currently learning **Machine Learning algorithms**
 
+- 💬 Ask me about **Data Analysis, Python, Machine Learning basics, Pandas, NumPy, Matplotlib**
 
-Dataset Description:
+- 📫 How to reach me **ghadisujit28@gmail.com**
 
-The dataset contains transactional sales data with the following key fields:
-1. Order, customer, product, and location details
-2. Sales, quantity, and profit metrics
-3. Delivery, payment, and order status information
-4. Calculated fields such as profit margin, delivery days, and sales status
+- 📄 Know about my experiences [file:///C:/Users/Sujit%20Ghadi/Downloads/Sujit_resume_mumbai.pdf](file:///C:/Users/Sujit%20Ghadi/Downloads/Sujit_resume_mumbai.pdf)
 
+- ⚡ Fun fact **I enjoy finding patterns in data and turning them into insights 📊.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sujit ghadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit ghadi" height="30" width="40" /></a>
+<a href="https://kaggle.com/sujitghadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujitghadi" height="30" width="40" /></a>
+<a href="https://fb.com/sujit ghadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit ghadi" height="30" width="40" /></a>
+<a href="https://instagram.com/sujit.manohar.ghadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit.manohar.ghadi" height="30" width="40" /></a>
+</p>
 
-Objectives:
-1. Analyze overall sales and profit performance
-2. Identify top customers, products, and regions
-3. Track monthly and yearly sales trends
-4. Evaluate delivery efficiency and order status
-5. Support data-driven business decision-making
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadisujit1005&show_icons=true&locale=en&layout=compact" alt="ghadisujit1005" /></p>
 
-Key Features of the Dashboard:
-1. KPI cards for Sales, Profit, Orders, and Customers
-2. Line chart for monthly sales trends
-3. Bar charts for category and region-wise performance
-4. Top 10 customers analysis
-5. Funnel chart for order and delivery status
-6. Interactive slicers (Segment, Category, Ship Mode, Year)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghadisujit1005&show_icons=true&locale=en" alt="ghadisujit1005" /></p>
 
-
-Tools & Technologies:
-1. Power BI Desktop
-2. DAX for measures and calculated columns
-3. Excel / CSV for data source
-
-
-Key Measures Used:
-1. Total Sales
-2. Total Profit
-3. Total Orders
-4. Total Customers
-
-
-Insights & Outcomes:
-1. Identified profitable customers and products
-2. Observed seasonal sales trends
-3. Highlighted major cities and payment modes driving revenue
-4. Detected loss-making transactions for improvement
-
-
-How to Use:
-1. Download the dataset
-2. Open the .pbix file in Power BI Desktop
-3. Refresh the data if required
-4. Use slicers to explore insights interactively
-
-
-Conclusion:
-
-This dashboard provides a clear and interactive way to monitor business performance and helps stakeholders 
-make informed, data-driven decisions.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghadisujit1005&" alt="ghadisujit1005" /></p>
